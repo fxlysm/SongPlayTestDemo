@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">铃声播放测试工具</string>
+    <string name="action_settings">设置</string>
+    <string name="button_start">开始</string>
+    <string name="button_stop">停止</string>
+    <string name="input_songname">test</string>
+    <string name="set_running_time">设置运行时间</string>
+    <string name="set_song_name">请输入测试歌曲名（不含后缀）：</string>
+    <string name="input_song_name">歌曲名（英文名不含空格）</string>
+    <string name="settings_days">天数</string>
+    <string name="settings_hor">小时</string>
+    <string name="settings_min">分钟</string>
+    <string name="set_confi_save">设置参数保存成功！</string>
+</resources>

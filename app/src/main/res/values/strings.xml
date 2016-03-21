@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SongPlayTest</string>
+
+ <string name="action_settings">Settings</string>
+
+    <string name="settings_days">Days</string>
+    <string name="settings_hor">Hor</string>
+    <string name="settings_min">Min</string>
+
+    <string name="button_start">Start</string>
+    <string name="button_stop">Stop</string>
+
+    <string name="set_song_name">Set Song name(Excluding the suffix):</string>
+    <string name="input_song_name">pls input song name(english)</string>
+    <string name="input_songname">test</string>
+
+    <string name="set_running_time">Set Running Time</string>
+   <string name="set_confi_save">Settings parameters save successfully!</string>
+</resources>
